@@ -1,0 +1,9 @@
+D:/BUSE/Documents/HotelManagementSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/HotelManagementSystem.dir
+D:/BUSE/Documents/HotelManagementSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/BUSE/Documents/HotelManagementSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/BUSE/Documents/HotelManagementSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/BUSE/Documents/HotelManagementSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/BUSE/Documents/HotelManagementSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/BUSE/Documents/HotelManagementSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/BUSE/Documents/HotelManagementSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/HotelManagementSystem_autogen_timestamp_deps.dir
+D:/BUSE/Documents/HotelManagementSystem/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/HotelManagementSystem_autogen.dir
